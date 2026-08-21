@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 
 ## Uncategorized
