@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
 - [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
