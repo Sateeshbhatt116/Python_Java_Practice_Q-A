@@ -20,3 +20,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
+
+## Binary Search
+- [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) - *Hard*
