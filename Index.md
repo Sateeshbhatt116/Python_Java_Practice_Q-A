@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) - *Hard*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 - [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
