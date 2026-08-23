@@ -19,6 +19,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## Math & Geometry
+- [Sum Game](./LeetCode/Medium/Sum%20Game) - *Medium*
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
 
 ## Binary Search
