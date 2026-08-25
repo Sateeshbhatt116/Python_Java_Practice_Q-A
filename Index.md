@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) - *Easy*
