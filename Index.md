@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) - *Easy*
 - [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) - *Hard*
