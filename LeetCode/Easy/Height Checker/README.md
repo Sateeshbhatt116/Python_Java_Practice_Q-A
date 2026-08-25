@@ -8,12 +8,12 @@
 | **Solved On** | August 25, 2026 |
 | **Tags** | Array, Sorting, Counting Sort, Bubble Sort |
 | **Link** | [View Problem](https://leetcode.com/problems/height-checker/) |
-| **Runtime** | 2 ms |
-| **Memory** | 42.6 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 43.5 MB |
 
 ## Approach
 
- 1. Problem Restated:
+1. Problem Restated:
    Students are currently standing in some order (given by "heights"). 
    We want to know how many students are NOT standing in the correct 
    position, where "correct" means sorted in non-decreasing (ascending) 
