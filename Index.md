@@ -17,6 +17,7 @@ All solved problems organized by pattern/category.
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 
 ## Uncategorized
+- [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
