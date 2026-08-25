@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) - *Easy*
 - [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) - *Hard*
 - [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) - *Hard*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
