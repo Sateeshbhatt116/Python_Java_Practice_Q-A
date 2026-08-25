@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
