@@ -33,3 +33,6 @@ All solved problems organized by pattern/category.
 
 ## Binary Search
 - [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) - *Hard*
+
+## Two Pointers
+- [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
