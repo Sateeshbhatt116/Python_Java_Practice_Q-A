@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) - *Medium*
 - [Make Lexicographically Smallest Array by Swapping Elements](./LeetCode/Medium/Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements) - *Medium*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
