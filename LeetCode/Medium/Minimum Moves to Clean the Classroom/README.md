@@ -5,61 +5,34 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 1, 2026 |
+| **Solved On** | September 2, 2026 |
 | **Tags** | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.3 MB |
+| **Memory** | 42.7 MB |
 
 ## Approach
 
+Since every move costs exactly 1 unit of energy (uniform edge weight), the problem reduces to finding the shortest path in an augmented state space, which BFS solves optimally.
+
+Each state is represented as (row, col, litterMask, energy), where litterMask is a bitmask tracking which litter cells have been collected so far. Starting from the student's position S, BFS explores all four directions at each step:
+
+If the neighboring cell is an obstacle X, skip it.
+Otherwise, decrement energy by 1 for the move.
+If the neighboring cell is litter L, set the corresponding bit in the mask.
+If the neighboring cell is a reset area R, restore energy to full capacity regardless of its previous value.
+If energy drops to 0 and the cell isn't R, this path is a dead end, no further moves are possible from there.
+
+To avoid redundant exploration, we maintain a best[row][col][mask] array storing the maximum energy seen for each combination of position and collected-litter state. A new state is only enqueued if it arrives with strictly more energy than a previously recorded value for the same (row, col, mask), since higher energy always allows equal or greater future reach.
+
+The BFS terminates as soon as litterMask equals the target mask (all litter collected), returning the current move count. If the queue empties without reaching that target, return -1.
+
+Time Complexity: O(m x n x 2^L x 4), where L is the number of litter cells.
+Space Complexity: O(m x n x 2^L) for the visited/best-energy tracking array.
 
 
-Approach:
 
-1. Why plain BFS doesn't work:
-   Normal BFS tracks only (row, col). But here the "cost" of being at a 
-   cell depends on more than position:
-   - Energy depletes each move, refills only on 'R' cells.
-   - Must collect ALL litter cells, not just reach one destination.
-   Same (row, col) can be validly visited multiple times with different 
-   energy left and different litter collected so far. Marking a cell 
-   "done" like normal BFS would wrongly block valid future paths.
 
-2. Fix - expand the state:
-   state = (row, col, energyLeft, litterCollectedMask)
-   - litterCollectedMask: bitmask where bit i = 1 if litter cell i has 
-     been picked up (litter count is small, so int bitmask works).
-   - Two visits to same cell count as same state only if energy AND 
-     mask also match.
-
-3. Algorithm:
-   a. Parse grid: find start 'S' position, collect all litter cell 
-      coordinates, assign each a bit index.
-   b. BFS from initial state (sr, sc, energy, initialMask) 
-      (initialMask accounts for litter under start cell, if any).
-   c. At each step, try 4 directions:
-      - Skip out of bounds / obstacle 'X'.
-      - If energy == 0, can't move further (dead branch).
-      - New energy = full energy if landing on 'R', else energy - 1.
-      - New mask = mask | bit(newCell) if newCell is litter.
-      - If (row, col, energy, mask) not seen before, mark visited, 
-        enqueue with moves + 1.
-   d. Goal: first time mask == fullMask is popped from BFS queue, 
-      return moves (BFS guarantees this is minimum since moves 
-      increase level by level).
-   e. If queue empties without reaching fullMask, return -1.
-
-4. Why BFS and not DFS/Dijkstra:
-   Every move costs exactly 1 (uniform weight), so BFS explores states 
-   in increasing order of move count. First time goal state is reached, 
-   it's guaranteed optimal. No need for priority queue.
-
-5. Complexity:
-   States: O(rows * cols * (energy+1) * 2^numLitter)
-   Time: O(states * 4) for neighbor checks
-   Space: O(states) for visited set and queue
-   Stays efficient since numLitter is small per constraints.
 
 ## Problem Description
 
