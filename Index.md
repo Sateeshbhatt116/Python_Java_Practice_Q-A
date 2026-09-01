@@ -49,3 +49,6 @@ All solved problems organized by pattern/category.
 
 ## Linked List
 - [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) - *Medium*
+
+## Breadth-First Search (BFS)
+- [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) - *Medium*
