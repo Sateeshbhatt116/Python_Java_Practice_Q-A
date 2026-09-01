@@ -9,30 +9,7 @@
 | **Tags** | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.7 MB |
-
-## Approach
-
-Since every move costs exactly 1 unit of energy (uniform edge weight), the problem reduces to finding the shortest path in an augmented state space, which BFS solves optimally.
-
-Each state is represented as (row, col, litterMask, energy), where litterMask is a bitmask tracking which litter cells have been collected so far. Starting from the student's position S, BFS explores all four directions at each step:
-
-If the neighboring cell is an obstacle X, skip it.
-Otherwise, decrement energy by 1 for the move.
-If the neighboring cell is litter L, set the corresponding bit in the mask.
-If the neighboring cell is a reset area R, restore energy to full capacity regardless of its previous value.
-If energy drops to 0 and the cell isn't R, this path is a dead end, no further moves are possible from there.
-
-To avoid redundant exploration, we maintain a best[row][col][mask] array storing the maximum energy seen for each combination of position and collected-litter state. A new state is only enqueued if it arrives with strictly more energy than a previously recorded value for the same (row, col, mask), since higher energy always allows equal or greater future reach.
-
-The BFS terminates as soon as litterMask equals the target mask (all litter collected), returning the current move count. If the queue empties without reaching that target, return -1.
-
-Time Complexity: O(m x n x 2^L x 4), where L is the number of litter cells.
-Space Complexity: O(m x n x 2^L) for the visited/best-energy tracking array.
-
-
-
-
+| **Memory** | 42.4 MB |
 
 ## Problem Description
 
