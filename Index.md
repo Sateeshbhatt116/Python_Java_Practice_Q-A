@@ -23,6 +23,7 @@ All solved problems organized by pattern/category.
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 
 ## Uncategorized
+- [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) - *Medium*
 - [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
