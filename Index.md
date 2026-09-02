@@ -41,6 +41,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
