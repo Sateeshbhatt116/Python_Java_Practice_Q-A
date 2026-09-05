@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Array Nesting](./LeetCode/Medium/Array%20Nesting) - *Medium*
 - [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
 - [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) - *Medium*
