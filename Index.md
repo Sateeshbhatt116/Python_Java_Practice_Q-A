@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 - [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
