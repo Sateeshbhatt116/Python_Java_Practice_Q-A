@@ -8,8 +8,8 @@
 | **Solved On** | September 5, 2026 |
 | **Tags** | Array, Math, Two Pointers |
 | **Link** | [View Problem](https://leetcode.com/problems/rotate-array/) |
-| **Runtime** | 5 ms |
-| **Memory** | 268.9 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 268.6 MB |
 
 ## Problem Description
 
