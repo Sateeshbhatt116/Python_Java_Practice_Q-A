@@ -9,7 +9,7 @@
 | **Tags** | String |
 | **Link** | [View Problem](https://leetcode.com/problems/length-of-last-word/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.9 MB |
+| **Memory** | 43.1 MB |
 
 ## Problem Description
 
