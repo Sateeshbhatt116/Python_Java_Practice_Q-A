@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Array Nesting](./LeetCode/Medium/Array%20Nesting) - *Medium*
 - [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
