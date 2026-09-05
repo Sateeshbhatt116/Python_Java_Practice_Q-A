@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
