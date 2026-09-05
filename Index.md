@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Array Nesting](./LeetCode/Medium/Array%20Nesting) - *Medium*
 - [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
 - [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) - *Medium*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
