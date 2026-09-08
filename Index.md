@@ -56,6 +56,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) - *Hard*
 - [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) - *Hard*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
