@@ -56,6 +56,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
