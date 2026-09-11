@@ -46,6 +46,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## Math & Geometry
+- [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) - *Easy*
 - [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) - *Medium*
 - [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) - *Medium*
 - [Sum Game](./LeetCode/Medium/Sum%20Game) - *Medium*
