@@ -52,6 +52,7 @@ All solved problems organized by pattern/category.
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
 
 ## Binary Search
+- [DI String Match](./LeetCode/Easy/DI%20String%20Match) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) - *Hard*
