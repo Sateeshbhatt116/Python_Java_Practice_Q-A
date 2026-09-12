@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/Maximum%20Score%20of%20Non-overlapping%20Intervals) - *Hard*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
 - [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) - *Medium*
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
