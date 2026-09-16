@@ -92,3 +92,6 @@ All solved problems organized by pattern/category.
 
 ## Breadth-First Search (BFS)
 - [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) - *Medium*
+
+## Searching and sorting
+- [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
