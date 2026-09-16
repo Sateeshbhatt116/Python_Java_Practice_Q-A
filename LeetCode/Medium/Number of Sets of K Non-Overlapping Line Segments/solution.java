@@ -1,0 +1,22 @@
+class Solution {
+    public int numberOfSets(int n, int k) {
+        final int MOD = 1_000_000_007;
+        long[][] f = new long[n + 1][k + 1];
+        long[][] g = new long[n + 1][k + 1];
+
+        f[1][0] = 1;
+
+        for (int i = 2; i <= n; i++) {
+            for (int j = 0; j <= k; j++) {
+                f[i][j] = (f[i - 1][j] + g[i - 1][j]) % MOD;
+                g[i][j] = g[i - 1][j];
+                if (j > 0) {
+                    g[i][j] = (g[i][j] + f[i - 1][j - 1]) % MOD;
+                    g[i][j] = (g[i][j] + g[i - 1][j - 1]) % MOD;
+                }
+            }
+        }
+
+        return (int) ((f[n][k] + g[n][k]) % MOD);
+    }
+}
