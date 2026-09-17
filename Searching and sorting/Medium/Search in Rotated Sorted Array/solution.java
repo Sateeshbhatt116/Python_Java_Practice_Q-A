@@ -8,32 +8,26 @@ class Solution {
 
             int mid = (left + right) / 2;
 
-            // Target found
+           
             if (nums[mid] == target) {
                 return mid;
             }
 
-            // Left half is sorted
+        
             if (nums[left] <= nums[mid]) {
-
-                // Target is inside left half
                 if (nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
                 } 
-                // Target is in right half
                 else {
                     left = mid + 1;
                 }
 
             } 
-            // Right half is sorted
+            
             else {
-
-                // Target is inside right half
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 } 
-                // Target is in left half
                 else {
                     right = mid - 1;
                 }
