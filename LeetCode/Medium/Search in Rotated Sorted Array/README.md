@@ -5,7 +5,7 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 16, 2026 |
+| **Solved On** | September 17, 2026 |
 | **Tags** | Array, Binary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | **Runtime** | 0 ms |
@@ -43,43 +43,3 @@
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
 
-
-##  Top Community Optimal Approach
-
-<details>
-<summary>Click to expand</summary>
-
-**Title**: Revised Binary Search
-**Author**: [@jerry13466](https://leetcode.com/jerry13466/)
-**Upvotes**: 851 👍
-**Link**: [View Original Post](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/14436/)
-
----
-
-    public class Solution {
-    public int search(int[] A, int target) {
-        int lo = 0;
-        int hi = A.length - 1;
-        while (lo < hi) {
-            int mid = (lo + hi) / 2;
-            if (A[mid] == target) return mid;
-            
-            if (A[lo] <= A[mid]) {
-                if (target >= A[lo] && target < A[mid]) {
-                    hi = mid - 1;
-                } else {
-                    lo = mid + 1;
-                }
-            } else {
-                if (target > A[mid] && target <= A[hi]) {
-                    lo = mid + 1;
-                } else {
-                    hi = mid - 1;
-                }
-            }
-        }
-        return A[lo] == target ? lo : -1;
-    }
-}
-
-</details>
