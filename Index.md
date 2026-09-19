@@ -49,6 +49,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## Math & Geometry
+- [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) - *Medium*
 - [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) - *Easy*
 - [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) - *Easy*
 - [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) - *Medium*
