@@ -70,6 +70,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) - *Medium*
 - [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) - *Easy*
 - [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
