@@ -70,6 +70,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
 - [Check if There Is a Valid Parentheses String Path](./LeetCode/Hard/Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) - *Hard*
 - [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) - *Medium*
 - [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) - *Easy*
