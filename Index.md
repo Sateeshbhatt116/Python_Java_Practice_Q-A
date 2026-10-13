@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) - *Medium*
 - [Find X Value of Array II](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II) - *Hard*
 - [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/Medium/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments) - *Medium*
 - [Image Overlap](./LeetCode/Medium/Image%20Overlap) - *Medium*
