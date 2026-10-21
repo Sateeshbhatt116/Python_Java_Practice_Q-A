@@ -105,3 +105,6 @@ All solved problems organized by pattern/category.
 ## Searching and sorting
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
+
+## Stack
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
