@@ -107,6 +107,7 @@ All solved problems organized by pattern/category.
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 
 ## Stack
+- [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
