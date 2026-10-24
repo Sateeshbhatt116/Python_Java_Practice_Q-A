@@ -72,6 +72,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) - *Easy*
 - [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) - *Medium*
 - [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
 - [Check if There Is a Valid Parentheses String Path](./LeetCode/Hard/Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) - *Hard*
