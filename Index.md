@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) - *Medium*
 - [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) - *Medium*
 - [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) - *Medium*
 - [Find X Value of Array II](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II) - *Hard*
