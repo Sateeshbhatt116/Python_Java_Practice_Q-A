@@ -115,3 +115,6 @@ All solved problems organized by pattern/category.
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
+
+## Greedy
+- [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) - *Medium*
