@@ -112,6 +112,7 @@ All solved problems organized by pattern/category.
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 
 ## Stack
+- [Design Circular Queue](./LeetCode/Medium/Design%20Circular%20Queue) - *Medium*
 - [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
 - [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
