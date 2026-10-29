@@ -8,8 +8,8 @@
 | **Solved On** | October 29, 2026 |
 | **Tags** | Stack, Design, Monotonic Stack, Data Stream |
 | **Link** | [View Problem](https://leetcode.com/problems/online-stock-span/) |
-| **Runtime** | 38 ms |
-| **Memory** | 56 MB |
+| **Runtime** | 32 ms |
+| **Memory** | 55.6 MB |
 
 ## Problem Description
 
