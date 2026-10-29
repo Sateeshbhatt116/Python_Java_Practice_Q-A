@@ -114,6 +114,7 @@ All solved problems organized by pattern/category.
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 
 ## Stack
+- [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
 - [Min Stack](./LeetCode/Medium/Min%20Stack) - *Medium*
 - [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) - *Easy*
