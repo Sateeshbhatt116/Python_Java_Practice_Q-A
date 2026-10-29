@@ -127,3 +127,6 @@ All solved problems organized by pattern/category.
 
 ## Greedy
 - [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) - *Medium*
+
+## Trees
+- [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
