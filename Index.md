@@ -81,6 +81,7 @@ All solved problems organized by pattern/category.
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) - *Medium*
 
 ## string
+- [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) - *Easy*
 - [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) - *Medium*
 - [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
