@@ -8,7 +8,7 @@
 | **Solved On** | November 2, 2026 |
 | **Tags** | Hash Table, String, Sliding Window |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| **Runtime** | 8 ms |
+| **Runtime** | 7 ms |
 | **Memory** | 47.5 MB |
 
 ## Problem Description
