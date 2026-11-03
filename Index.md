@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Maximum Total Subarray Value II](./LeetCode/Hard/Maximum%20Total%20Subarray%20Value%20II) - *Hard*
 - [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) - *Hard*
 - [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
