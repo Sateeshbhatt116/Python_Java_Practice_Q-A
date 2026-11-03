@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) - *Easy*
 - [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) - *Medium*
