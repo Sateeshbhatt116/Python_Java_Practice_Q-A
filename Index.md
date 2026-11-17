@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) - *Medium*
 - [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) - *Medium*
 - [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) - *Medium*
 - [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) - *Medium*
