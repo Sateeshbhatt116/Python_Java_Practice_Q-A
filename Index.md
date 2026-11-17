@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) - *Medium*
 - [Minimum Positive Sum Subarray](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray) - *Easy*
 - [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) - *Hard*
 - [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) - *Easy*
