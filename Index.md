@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) - *Easy*
 - [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) - *Medium*
 - [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) - *Medium*
 - [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) - *Medium*
