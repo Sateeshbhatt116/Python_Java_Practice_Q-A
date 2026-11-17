@@ -141,6 +141,7 @@ All solved problems organized by pattern/category.
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 
 ## Greedy
+- [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) - *Hard*
 - [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) - *Medium*
 
 ## Trees
