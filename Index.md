@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) - *Medium*
 - [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) - *Medium*
 - [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) - *Easy*
 - [Minimum Operations to Make Elements Within K Subarrays Equal](./LeetCode/Hard/Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) - *Hard*
