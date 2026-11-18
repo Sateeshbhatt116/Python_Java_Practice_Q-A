@@ -124,6 +124,7 @@ All solved problems organized by pattern/category.
 - [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/Medium/Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target) - *Medium*
 
 ## Linked List
+- [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
 - [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) - *Medium*
 
 ## Breadth-First Search (BFS)
