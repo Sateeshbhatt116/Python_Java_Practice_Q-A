@@ -8,7 +8,7 @@
 | **Solved On** | November 25, 2026 |
 | **Tags** | Array, Dynamic Programming, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) |
-| **Runtime** | 39 ms |
+| **Runtime** | 41 ms |
 | **Memory** | 74.1 MB |
 
 ## Problem Description
