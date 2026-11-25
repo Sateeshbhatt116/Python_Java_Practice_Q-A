@@ -19,3 +19,6 @@ All solved problems organized by pattern/category.
 - [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) - *Hard*
 - [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) - *Easy*
 - [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) - *Medium*
+
+## string
+- [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20As%20Appears%20Before%20All%20Bs) - *Easy*
