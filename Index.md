@@ -12,5 +12,6 @@ All solved problems organized by pattern/category.
 - [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) - *Medium*
 
 ## Arrays & Hashing
+- [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) - *Hard*
 - [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) - *Easy*
 - [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) - *Medium*
