@@ -15,6 +15,7 @@ All solved problems organized by pattern/category.
 - [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) - *Medium*
 
 ## Arrays & Hashing
+- [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) - *Hard*
 - [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) - *Medium*
 - [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) - *Hard*
 - [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) - *Easy*
