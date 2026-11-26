@@ -24,3 +24,6 @@ All solved problems organized by pattern/category.
 
 ## string
 - [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20As%20Appears%20Before%20All%20Bs) - *Easy*
+
+## Math & Geometry
+- [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) - *Easy*
