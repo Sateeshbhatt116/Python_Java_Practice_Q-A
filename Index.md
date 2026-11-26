@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Linked List
+- [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) - *Medium*
 - [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) - *Medium*
 - [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Rotate List](./LeetCode/Medium/Rotate%20List) - *Medium*
