@@ -36,4 +36,5 @@ All solved problems organized by pattern/category.
 - [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) - *Easy*
 
 ## Stack
+- [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) - *Hard*
 - [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) - *Hard*
