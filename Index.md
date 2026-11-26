@@ -34,3 +34,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) - *Easy*
+
+## Stack
+- [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) - *Hard*
