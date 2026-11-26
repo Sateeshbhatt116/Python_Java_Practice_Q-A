@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Linked List
+- [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
 - [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) - *Medium*
 - [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) - *Medium*
