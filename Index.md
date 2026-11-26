@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Linked List
+- [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Rotate List](./LeetCode/Medium/Rotate%20List) - *Medium*
 - [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
 - [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) - *Medium*
