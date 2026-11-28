@@ -23,6 +23,7 @@ All solved problems organized by pattern/category.
 - [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) - *Medium*
 
 ## Arrays & Hashing
+- [Maximum Number of Items From Sale II](./LeetCode/Medium/Maximum%20Number%20of%20Items%20From%20Sale%20II) - *Medium*
 - [Maximum Number of Items From Sale I](./LeetCode/Medium/Maximum%20Number%20of%20Items%20From%20Sale%20I) - *Medium*
 - [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) - *Hard*
 - [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) - *Medium*
